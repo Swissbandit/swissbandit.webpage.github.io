@@ -1,4 +1,4 @@
-# swissbandit.webpage.github.io
+# swissbanditpage.github.io
 to test the webpage things
 <h1>Radio-Meshnet</h1>
 <br>
